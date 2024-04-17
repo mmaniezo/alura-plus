@@ -1,8 +1,18 @@
-# alura-plus
-Um projeto visando a criação de uma página html para a alura, com o seu novo projeto o alura +.
-Muito bem desenvolvido por mim com ajuda das video aulas do curso. Um projeto nem tão complicado usando o básico tanto do html5 quanto do css3.
-O projeto está separado em 6 partes do html, cada um usando div's e section's diferentes para demonstrar, e por último o footer, assim dividido da forma explicada.
-Com o site criado aprendi a deixar a estrutura do site mais responsiva e acredito ter aumentado minhas capacidades na criação e estilização de sites na Web.
-Obrigado Alura!
+# Alura Plus - Projeto alura+
+Bem-vindo ao repositório do projeto Projeto alura+! Este projeto visa criar uma plataforma online para o alura+, uma extensão da plataforma alura.
+
+Descrição do Projeto
+A alura+ oferece  um combo onde você sai com o alura + o alura língua, com dois botões um oferecendo a opção de compra do pacote e outra somente o alura+, 
+mais para baixo temos três tópicos diferentes mostrando alguns benefícios, e até a opção de assinar somente o combo+, e no final vemos as plataformas onde
+posso usar o alura e seus conjuntos, finalizando com as informações da marca.
+
+Funcionalidades Principais
+Oportunidade de Combo: Os clientes ao chegarem no site já percebem que uma oportunidade única para comprar um dos combos da alura.
+Facilidade de compra: Os clientes podem adicionar qualquer opção de curso cliclando nos botões estilizados.
+Informações: Deixa três tópicos específicos falando sobre onde você pode assistir, uma opção de pegar apenas o combo+ e ainda diz que podemos baixar os cursos.
+Finalização do Site: Demonstrando algumas das plataformas em que o site pode ser acessado e as informações da empresa alura.
+
+Tecnologias Utilizadas
+Frontend: HTML5, CSS3
 
 https://mmaniezo.github.io/alura-plus/
